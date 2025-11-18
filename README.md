@@ -17,10 +17,11 @@ My passion lies in uncovering insights from data, solving real-world problems th
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, SQL  
+- **Main Languages:** Python, SQL
+- **My condiments:** Java, Rust
 - **Libraries / Frameworks:** scikit-learn, PyTorch, Transformers, pandas, NumPy  
 - **Techniques:** supervised learning, deep learning, algorithmic fairness, NLP  
-- **Other:** version control (Git), teamwork, clean code practices  
+- **Other:** version control (Git), teamwork (Jira, Trello, Slack)
 
 ---
 
