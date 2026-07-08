@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space!
 
-I'm a **Data Scientist** based in Madrid and currently collaborating with **IBiDat**.  
+I'm a **Data Scientist** based in Madrid.  
 My passion lies in uncovering insights from data, solving real-world problems through machine learning, and building scalable, impactful solutions.
 
 ---
